@@ -1,0 +1,44 @@
+/* This is where we can style our webpage */
+
+/* Styling the body of the webpage */
+body {
+    font-family: Arial, sans-serif; /* This changes the font */
+    background-color: #f4f4f4; /* This changes the background color */
+    margin: 0; /* Removes default margins */
+    padding: 0; /* Removes default padding */
+}
+
+/* Styling the header (the big title) */
+header {
+    background-color: #333; /* Dark background color */
+    color: white; /* White text color */
+    text-align: center; /* Centers the text */
+    padding: 20px; /* Adds some space around the text */
+}
+
+/* Styling the sections (About Me, Projects) */
+section {
+    margin: 20px; /* Adds space around the sections */
+    padding: 10px; /* Adds space inside the sections */
+    background-color: white; /* Makes the background white */
+    border-radius: 8px; /* Rounds the corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a shadow effect */
+}
+
+/* Styling the project list */
+ul {
+    list-style-type: none; /* Removes the bullets from the list */
+    padding: 0; /* Removes default padding */
+}
+
+ul li {
+    margin: 10px 0; /* Adds space between each list item */
+}
+
+/* Styling the footer */
+footer {
+    text-align: center; /* Centers the text */
+    padding: 10px;
+    background-color: #333; /* Dark background color */
+    color: white; /* White text */
+}
